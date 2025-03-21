@@ -34,7 +34,7 @@ body{
 .btn::before{
   content: "";
   position: absolute;
-  background-color: blueviolet;
+  background-color: rgb(143, 98, 185);
   width: 0;
   height: 0;
   left: var(--xPos);
